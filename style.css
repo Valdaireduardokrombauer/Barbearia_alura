@@ -1,4 +1,8 @@
 body{
+    
+}
+
+.principal {
     background: #CCCCCC;
 }
 #banner{
@@ -21,6 +25,18 @@ em strong{
     color: red;
 }
 
-#mssao{
+#missao{
     font-size: 20px;
+}
+
+.itens {
+    font-style: atalic;
+}
+
+.beneficios {
+    background: #FFFFFF
+}
+
+h2{
+    text-align: center;
 }
