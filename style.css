@@ -1,6 +1,9 @@
 body{
     
 }
+.titulo-prncipal {
+  padding-left: 20px;
+}
 
 .principal {
     background: #CCCCCC;
@@ -15,7 +18,7 @@ body{
     width: 100%;
 }
 
-h1{
+.titulo-centralizado {
     text-align: center
 }
 p {
@@ -39,9 +42,6 @@ em strong{
     padding: 20px;
 }
 
-h2{
-    text-align: center;
-}
 
 ul{
     display: inline-block;
